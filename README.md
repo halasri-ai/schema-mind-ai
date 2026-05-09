@@ -158,25 +158,23 @@ streamlit run streamlit_app/app.py
 
 ## Upload Interface
 
-_Add screenshot here_
+![Upload Screen](docs/screenshots/upload-screen.png)
 
 ---
 
 ## Mapping Results
-
-_Add screenshot here_
+![Mapping Results](docs/screenshots/mapping-results.png)
 
 ---
 
 ## Mapping Memory
 
-_Add screenshot here_
-
+![Mapping Memory](docs/screenshots/mapping-memory.png)
 ---
 
 ## Logs Viewer
 
-_Add screenshot here_
+![Logs Viewer](docs/screenshots/logs-viewer.png)
 
 ---
 
